@@ -44,6 +44,6 @@ The dataset used in this project is included as student-data.csv. This dataset h
   - Bagging with K-Nearest Neighbors
   - Suport Vecotr Machines
 - Then the model was fit to varying sizes of training data (100 data points, 200 data points, and 300 data points) 
-- Next, the $F1$ scores were measured for the training and test set for model performance and evaluation
+- Next, the **F1** scores were measured for the training and test set for model performance and evaluation
 - Finally, the best model was selected
  
