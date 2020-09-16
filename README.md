@@ -2,6 +2,8 @@ The goal of this project is to predict whether a student is going to be successf
 
 To achieve this, a supervised learning model was used to learn how a student's performance indicators lead to whether a student will graduate or otherwise. The model can do this because we already have existing data on students who have and have not graduated, so the model can learn the performance indicators of those students. Based on the student's performance indicators, the model would output a weight for each performance indicator.
 
+View the source code [**here**](https://github.com/LotaIbe/student-intervention/blob/master/Student%20Intervention%20System.ipynb)
+
 ## Data
 
 The dataset used in this project is included as student-data.csv. This dataset has the following attributes:
@@ -46,4 +48,6 @@ The dataset used in this project is included as student-data.csv. This dataset h
 - Then the model was fit to varying sizes of training data (100 data points, 200 data points, and 300 data points) 
 - Next, the **F1** scores were measured for the training and test set for model performance and evaluation
 - Finally, the best model was selected
+
+View the source code [**here**](https://github.com/LotaIbe/student-intervention/blob/master/Student%20Intervention%20System.ipynb)
  
